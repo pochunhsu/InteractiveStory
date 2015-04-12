@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">Interactive Story</string>
-
+    <string name="app_name">Signal from Mars</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="description">Signal from Mars</string>
     <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="default_name">Friend</string>
+
 </resources>
